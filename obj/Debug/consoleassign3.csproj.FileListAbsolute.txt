@@ -1,0 +1,8 @@
+D:\day-3\consoleassign3\consoleassign3\bin\Debug\consoleassign3.exe.config
+D:\day-3\consoleassign3\consoleassign3\bin\Debug\consoleassign3.exe
+D:\day-3\consoleassign3\consoleassign3\bin\Debug\consoleassign3.pdb
+D:\day-3\consoleassign3\consoleassign3\obj\Debug\consoleassign3.csproj.AssemblyReference.cache
+D:\day-3\consoleassign3\consoleassign3\obj\Debug\consoleassign3.csproj.SuggestedBindingRedirects.cache
+D:\day-3\consoleassign3\consoleassign3\obj\Debug\consoleassign3.csproj.CoreCompileInputs.cache
+D:\day-3\consoleassign3\consoleassign3\obj\Debug\consoleassign3.exe
+D:\day-3\consoleassign3\consoleassign3\obj\Debug\consoleassign3.pdb
